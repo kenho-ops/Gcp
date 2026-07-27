@@ -1,2 +1,2 @@
-# Gcp
+# GCP
 GCP
